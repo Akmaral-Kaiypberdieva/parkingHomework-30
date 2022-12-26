@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2db5758-7481-4482-b43f-8c32f1b901ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parkingHomework-30.iml" afterDir="false" />
+    <list default="true" id="f2db5758-7481-4482-b43f-8c32f1b901ff" name="Changes" comment="added dop to parking">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JRnO7Q0l5cMGSwuIao5GrPSEac" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,6 +43,70 @@
       <option name="presentableId" value="Default" />
       <updated>1672049730405</updated>
     </task>
+    <task id="LOCAL-00001" summary="first ignore commit">
+      <created>1672050120467</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672050120467</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added class car">
+      <created>1672050319540</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672050319540</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added class magazine and state">
+      <created>1672050507507</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672050507507</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added class simulator">
+      <created>1672050597437</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672050597437</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added class parking and canvas">
+      <created>1672050962347</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672050962347</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added dop">
+      <created>1672057107776</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672057107776</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added dop">
+      <created>1672057302816</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672057302816</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added main">
+      <created>1672058078273</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672058078273</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added dop to parking">
+      <created>1672058603786</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1672058603786</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -47,5 +119,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first ignore commit" />
+    <MESSAGE value="added class car" />
+    <MESSAGE value="added class magazine and state" />
+    <MESSAGE value="added class simulator" />
+    <MESSAGE value="added class parking and canvas" />
+    <MESSAGE value="added dop" />
+    <MESSAGE value="added main" />
+    <MESSAGE value="added dop to parking" />
+    <option name="LAST_COMMIT_MESSAGE" value="added dop to parking" />
   </component>
 </project>

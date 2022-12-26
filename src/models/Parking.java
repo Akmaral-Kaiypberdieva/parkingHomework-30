@@ -34,7 +34,7 @@ public class Parking {
                 }else if(magazine.getMinuteCheckOut() == 1440 && magazine.getMinuteCheckIn() == 1440){
                     if(timeOnPark > 30){
                         sum = timeOnPark / 1 * 2;
-                        payCheck.add(new Magazine(magazine.getCar(), sum, magazine.getDay()));
+                        payCheck.add(new Magazine(magazine.getCar(), sum,  magazine.getDay()));
                     }
                 }
             }
