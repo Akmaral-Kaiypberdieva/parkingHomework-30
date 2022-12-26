@@ -5,6 +5,15 @@ public class Magazine {
     private int minuteCheckIn;
     private int minuteCheckOut;
     private int day;
+    private int sum;
+
+    public int getSum() {
+        return sum;
+    }
+
+    public void setSum(int sum) {
+        this.sum = sum;
+    }
 
     public Magazine(Car car, int minuteCheckIn, int minuteCheckOut) {
         this.car = car;

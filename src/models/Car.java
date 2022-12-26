@@ -1,5 +1,7 @@
 package models;
 
+import java.util.Random;
+
 public class Car {
     private String number;
     private Magazine magazine;
